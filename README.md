@@ -1,8 +1,8 @@
 # Hello Friend.
 
 🎓 Estudante de Segurança da Informação  
-🛡️ Foco em Blue Team e SOC Analyst
-🔍 Estudando detecção, análise de logs e resposta a incidentes
+🛡️ Foco em Blue Team e SOC Analyst  
+🔍 Estudando detecção, análise de logs e resposta a incidentes  
 🧪 Prática em laboratórios e ambientes controlados
 
 ---
