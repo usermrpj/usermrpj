@@ -1,8 +1,8 @@
-# Hello Friend
+# Hello Friend.
 
 🎓 Estudante de Segurança da Informação  
-🛡️ Foco em Blue Team e SOC Analyst  
-🔍 Estudando detecção, análise de logs e resposta a incidentes  
+🛡️ Foco em Blue Team e SOC Analyst
+🔍 Estudando detecção, análise de logs e resposta a incidentes
 🧪 Prática em laboratórios e ambientes controlados
 
 ---
@@ -15,7 +15,6 @@
   <img height="40" src="https://cdn.simpleicons.org/elastic" />
   <img height="40" src="https://cdn.simpleicons.org/wireshark" />
   <img height="40" src="https://cdn.simpleicons.org/linux" />
-  <img height="40" src="https://cdn.simpleicons.org/windows11" />
 </div>
 
 ---
